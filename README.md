@@ -1,2 +1,1 @@
-# nsteele36.github.io
-# does it work like this
+[Nick Steele's GitHub Profile](https://github.com/nsteele36)
